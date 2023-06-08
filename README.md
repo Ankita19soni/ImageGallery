@@ -1,8 +1,14 @@
 # ImageGallery
 
+![Screenshot (221)](https://github.com/Ankita19soni/ImageGallery/assets/132035991/52f2437d-1f1e-4639-8d18-89e65f951d9b)
+
+
 Welcome to our image gallery site, where visual delights await at every click! Immerse yourself in a captivating world of stunning visuals and artistic expression. Our meticulously curated collection features a diverse range of photographs, illustrations, and digital art, catering to all tastes and preferences.
 
 Upon entering our site, you'll be greeted by a sleek and user-friendly interface that showcases the vibrant images in all their glory. The design emphasizes simplicity, allowing the artwork to take center stage. A clean and intuitive navigation system ensures effortless browsing, enabling you to explore the vast collection with ease.
+
+![Screenshot (222)](https://github.com/Ankita19soni/ImageGallery/assets/132035991/52a815f8-c2e9-4e09-b267-f5ebe2060f62)
+
 
 Our image gallery site boasts a vast array of categories, ensuring there's something for everyone. Whether you're drawn to the majestic beauty of nature, the captivating allure of portraiture, or the mesmerizing colors of abstract art, we've assembled a treasure trove of visual wonders to satisfy your every craving.
 
